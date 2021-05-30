@@ -2,7 +2,7 @@
 
 If you want to send me an encrypted email, you can use one of the following pgp keys:
 
-| pgp key |
+| pgp public key file |
 |-------------- |
 | `pavelsam.pub` |
 | `samanpavel-gmail.pub` |
