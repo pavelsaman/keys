@@ -7,6 +7,8 @@ If you want to send me an encrypted email, you can use one of the following pgp 
 | `pavelsam.pub` |
 | `samanpavel-gmail.pub` |
 | `samanpavel-proton.pub` |
+| `psaman-cisco.pub` |
+| `psaman-slido.pub` |
 
 # Public ssh keys
 
